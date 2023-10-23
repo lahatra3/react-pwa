@@ -1,0 +1,5 @@
+.container__app {
+    height: 100vh;
+    /* background-image: linear-gradient(to right top, #314460, #3c4f6c, #475b78, #526784, #5e7390); */
+    padding: 1rem;
+}

@@ -1,0 +1,23 @@
+.container__navbar {
+    background-color: #f2f2f8ef;
+    backdrop-filter: blur(7px);
+    height: 3.7rem;
+    border-radius: .7rem;
+    box-shadow: 0 0 11px 3px #2927270e;
+    border: 1px dashed #314460;
+    padding: auto 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__navbar button {
+    border: none;
+    background-color: transparent;
+    margin: auto 1rem;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #292727;
+}
